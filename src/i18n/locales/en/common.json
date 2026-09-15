@@ -1,0 +1,13 @@
+{
+  "actions": {
+    "submit": "Submit",
+    "send": "Send",
+    "cancel": "Cancel",
+    "readMore": "Read more"
+  },
+  "state": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Please try again.",
+    "empty": "Nothing here yet."
+  }
+}
