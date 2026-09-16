@@ -1,0 +1,17 @@
+@reference "tailwindcss";
+
+.sidebar {
+  @apply flex h-full w-56 flex-col border-r border-gray-200 bg-white py-4 dark:border-neutral-800 dark:bg-neutral-900;
+}
+
+.sidebar-list {
+  @apply flex flex-col gap-1 px-2;
+}
+
+.sidebar-link {
+  @apply block rounded-sm px-3 py-2 text-sm font-medium text-neutral-900 transition-colors hover:bg-violet-50 dark:text-neutral-100 dark:hover:bg-neutral-800 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-600 focus-visible:ring-offset-2 dark:focus-visible:ring-violet-400 dark:focus-visible:ring-offset-neutral-900;
+}
+
+.sidebar-link-active {
+  @apply bg-violet-600 text-white hover:bg-violet-600 dark:bg-violet-500 dark:hover:bg-violet-500;
+}

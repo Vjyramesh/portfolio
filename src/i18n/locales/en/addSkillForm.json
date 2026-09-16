@@ -1,0 +1,18 @@
+{
+  "heading": "Add a skill",
+  "labels": {
+    "name": "Name",
+    "category": "Category",
+    "level": "Level",
+    "proficiency": "Proficiency (1-100)",
+    "yearsOfExperience": "Years of experience"
+  },
+  "errors": {
+    "required": "This field is required",
+    "proficiencyRange": "Enter a whole number between 1 and 100",
+    "yearsNonNegative": "Enter a whole number of 1 or more",
+    "submissionFailed": "Something went wrong adding the skill. Please try again."
+  },
+  "submit": "Add skill",
+  "success": "Skill added."
+}

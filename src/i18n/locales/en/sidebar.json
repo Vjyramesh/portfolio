@@ -1,0 +1,15 @@
+{
+  "navLabel": "Admin navigation",
+  "links": {
+    "basicInfo": "Basic Info",
+    "experience": "Experience",
+    "works": "Works",
+    "skills": "Skills",
+    "blogs": "Blogs",
+    "caseStudies": "Case Studies",
+    "whitePapers": "White Papers",
+    "certifications": "Certifications",
+    "education": "Education",
+    "contact": "Contact Us"
+  }
+}
