@@ -1,0 +1,9 @@
+@reference "tailwindcss";
+
+.admin-layout {
+  @apply flex min-h-screen bg-white dark:bg-neutral-950;
+}
+
+.admin-content {
+  @apply flex-1 p-6;
+}
